@@ -1,0 +1,12 @@
+.Banner {
+  padding: 10px;
+  margin: auto;
+  margin-top: 50px;
+  width: 50%;
+  text-align: center;
+}
+
+.Banner img {
+  width: 640px;
+  height: 137px;
+}

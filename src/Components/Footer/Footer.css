@@ -1,0 +1,44 @@
+.Footer {
+  position: absolute;
+  bottom: 0;
+  background-color: rgb(240, 235, 235);
+  color: #70757a;
+  width: 100%;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+}
+
+.Footer hr {
+  border: 1px thin darkgray;
+}
+
+.Footer a {
+  color: grey;
+}
+
+.Footer .up, .down {
+  padding: 17px;
+  padding-left: 30px;
+}
+
+.Footer ul {
+  display: inline;
+}
+
+.Footer .down 
+.two, .three {
+  margin-left: 13%;
+}
+
+.Footer .three {
+  position: absolute;
+  right: 10px;
+}
+
+.Footer .one li {
+  margin-right: 20px;
+}
+
+.Footer .three li {
+  margin-right: 20px;
+}
