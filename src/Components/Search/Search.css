@@ -22,6 +22,12 @@
   border: none;
 }
 
+#search:focus
+{
+  border:none;
+  outline: none;
+}
+
 .SearchBox img {
   cursor: pointer;
 }
